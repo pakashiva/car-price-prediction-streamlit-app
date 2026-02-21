@@ -114,8 +114,11 @@ Ensure the following files are present in the same directory as `app.py`:
 * RMSE (Log Scale): 0.22
 
 ---
+
 ## Live Demo
 link : https://car-price-predictor-us-market-app.streamlit.app/
+
+---
 
 ## 🚀 Future Improvements
 
